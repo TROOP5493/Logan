@@ -2,7 +2,6 @@ body {
 	font-family: fantasy;
 	color: white;
 	background-image: linear-gradient(to bottom, #ff0000, #0000ff) !important;
-	background-attachment: fixed;
 	background-size: cover;}
 h1 {
 	font-size: 250%;}
