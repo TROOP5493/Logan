@@ -29,5 +29,9 @@ table.one {
 	border-sapcing: 5px 15px;}
 table.two {
 	border-collapse: collapse;}
-.example {
-	position: center;}
+p.example {
+	position: absolute;
+	top: 0px;
+	left: 500px;
+	width: 250px;}
+
