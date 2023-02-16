@@ -37,6 +37,7 @@ p.example {
 p.example2 {
 	position: absolute;
 	top: 400px;
+	left: 800px;
 	width: 400px;
 }
 
