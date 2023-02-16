@@ -1,14 +1,14 @@
 body { 
 	font-family: fantasy;
 	color: white;
-	background-image: linear-gradient(to bottom, #ff0000, #0000ff) !important;}
+	background-image: linear-gradient(to bottom, #ff0000, #0000ff)}
 h1 {
 	font-size: 250%;}
 .centered-text {
 	text-align: center;}
 div.box {
   position: absolute;
-  height: 10000px;
+  height: 2000px;
   width: 800px;
   top: 0;
   left: 50%;
