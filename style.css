@@ -11,7 +11,9 @@ h1 {
 	text-align: center;}
 div.box {
 	height: 300px;
-	width: 300px;
+	width: 400px;
+	top: 400;
+	left: 800px;
 	text-align: center;
 	background-color: black}
 p {
@@ -41,3 +43,4 @@ p.example2 {
 	width: 400px;
 }
 
+ 
