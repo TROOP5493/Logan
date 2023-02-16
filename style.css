@@ -1,11 +1,10 @@
 body { 
 	font-family: fantasy;
-	color: deeppink;
+	color: white;
 	background-image: linear-gradient(to bottom, #ff0000, #0000ff) !important}
 
 h1 {
-	color: green;
-	background-color: deeppink;
+	color: white;
 	font-family: fantasy;
 	font-size: 250%;}
 .centered-text {
@@ -14,7 +13,7 @@ div.box {
 	height: 300px;
 	width: 300px;
 	text-align: center;
-	background-color: magenta;}
+	background-color: black}
 p {
 	height: 75%;
 	width: 75%;}
