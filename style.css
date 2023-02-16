@@ -15,7 +15,7 @@ div.box {
   top: 0;
   left: 50%;
   transform: translateX(-50%);
-  background-color: black;
+  background-image: linear-gradient(to bottom, #0000ff, #ff0000) !important;
   text-align: left;}
 
 ul.one {
