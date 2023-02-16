@@ -10,12 +10,14 @@ h1 {
 .centered-text {
 	text-align: center;}
 div.box {
-	position: absolute;
-	height: 3000px;
-	width: 800px;
-	top: 0;
-	text-align: center;
-	background-color: black}
+  position: relative;
+  height: 300px;
+  width: 800px;
+  top: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  background-color: black;
+}
 
 ul {
 	list-style-image: url("IMG VID/colby.jpg");}
