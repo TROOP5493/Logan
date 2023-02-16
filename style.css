@@ -16,7 +16,7 @@ div.box {
   left: 50%;
   transform: translateX(-50%);
   background-color: black;
-  text-align: center;}
+  text-align: left;}
 
 ul.one {
 	list-style-image: url("IMG VID/colby.jpg");}
