@@ -1,8 +1,7 @@
 body { 
 	font-family: fantasy;
 	color: white;
-	background-image: linear-gradient(to bottom, #ff0000, #0000ff) !important;
-	background-size: cover;}
+	background-image: linear-gradient(to bottom, #ff0000, #0000ff) !important;}
 h1 {
 	font-size: 250%;}
 .centered-text {
