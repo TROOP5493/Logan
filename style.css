@@ -30,6 +30,6 @@ table.one {
 table.two {
 	border-collapse: collapse;}
 .example {
-	position: right;
+	position: left;
 	top: 10px;
 	left: 100px;}
