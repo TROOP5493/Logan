@@ -10,7 +10,7 @@ h1 {
 .centered-text {
 	text-align: center;}
 div.box {
-	position: relative;
+	position: absolute;
 	height: 30000px;
 	width: 800px;
 	top: 0;
