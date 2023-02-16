@@ -2,7 +2,12 @@ body {
 	font-family: fantasy;
 	color: deeppink;
 	background-color: black;}
+
 h1 {
 	color: black;
 	background-color: deeppink;
-	font-family: fantasy;}
+	font-family: fantasy;
+	font-size: 250%;}
+.centered-text {
+	text-align: center;
+}
