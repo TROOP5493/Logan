@@ -21,3 +21,11 @@ ul {
 	list-style-image: url("IMG VID/colby.jpg");}
 li {
 	margin: 10px 0px 0px 0px}
+td {
+	background-color: blue;
+	padding: 15px;
+	border: 2px solid black;}
+table.one {
+	border-sapcing: 5px 15px;}
+table.two {
+	border-collapse: collapse;}
