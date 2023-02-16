@@ -1,11 +1,12 @@
 body { 
 	font-family: fantasy;
 	color: white;
-	background-image: linear-gradient(to bottom, #ff0000, #0000ff) !important}
+	background-image: linear-gradient(to bottom, #ff0000, #0000ff) !important;
+	background-attachment: fixed;
+	background-size: cover;
+}
 
 h1 {
-	color: white;
-	font-family: fantasy;
 	font-size: 250%;}
 .centered-text {
 	text-align: center;}
@@ -20,7 +21,7 @@ div.box {
   text-align: center;
 }
 
-ul {
+ul.one {
 	list-style-image: url("IMG VID/colby.jpg");}
 
 td {
