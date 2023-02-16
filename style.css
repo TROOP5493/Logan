@@ -13,8 +13,8 @@ div.box {
 	position: relative;
 	height: 30000px;
 	width: 400px;
-	top: 400;
-	left: 800px;
+	top: 0;
+	left: 666px;
 	text-align: center;
 	background-color: black}
 
