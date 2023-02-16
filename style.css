@@ -1,7 +1,7 @@
-/*body { 
+body { 
 	font-family: fantasy;
 	color: deeppink;
-	background-color: black;} */
+	background-color: white;}
 
 h1 {
 	color: green;
@@ -9,15 +9,12 @@ h1 {
 	font-family: fantasy;
 	font-size: 250%;}
 .centered-text {
-	text-align: center;
-}
+	text-align: center;}
 div.box {
 	height: 300px;
 	width: 300px;
-	background-color: magenta;
-}
+	background-color: magenta;}
 p {
 	height: 75%;
 	width: 75%;
-	backgroud-color: white;
-}
+	backgroud-color: white;}
